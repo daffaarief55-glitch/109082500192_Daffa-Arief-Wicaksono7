@@ -1,6 +1,5 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
-<p align="center">Muhammad Dhimas Hafizh Fathurrahman - 2311102151</p>
-
+# <h1 align="center">Laporan Praktikum Modul 7 - Stack</h1>
+<p align="center">Daffa Arief Wicaksono - 109082500192
 ## Dasar Teori
 Stack merupakan salah satu jenis struktur data linear yang berfungsi untuk menyimpan sekumpulan data dengan menerapkan prinsip LIFO (Last In First Out). Prinsip tersebut menjelaskan bahwa data yang terakhir dimasukkan akan menjadi data pertama yang dikeluarkan[1]. Struktur data Stack memiliki bentuk menyerupai tumpukan, sehingga proses penambahan maupun pengambilan elemen hanya dapat dilakukan melalui satu sisi yang disebut TOP. Dalam pemrograman, Stack dimanfaatkan untuk berbagai kebutuhan, seperti pengolahan ekspresi matematika, pengelolaan memori, serta penerapan fitur undo dan redo[1].
 
