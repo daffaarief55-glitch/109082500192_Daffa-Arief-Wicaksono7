@@ -309,14 +309,7 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono7/blob/main/modul7/output_unguided/output1.png?raw=true)
 
 Ketiga file tersebut bekerja sama untuk menjalankan program Stack berbasis Array. main.cpp digunakan untuk menjalankan program, stack.h memuat deklarasi struktur dan fungsi, sedangkan stack.cpp berisi kode untuk mengatur proses penambahan, pengambilan, dan penampilan data mahasiswa dengan prinsip LIFO.
 
@@ -464,13 +457,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output2](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono7/blob/main/modul7/output_unguided/output2.png?raw=true)
 
 Ketiga file tersebut digunakan untuk menjalankan program Stack berbasis Array dengan fitur tambahan input data. main3.cpp berfungsi menjalankan program, stack3.h memuat deklarasi struktur dan fungsi, sedangkan stack3.cpp berisi proses penambahan, pengambilan, pembalikan, serta pembacaan angka hingga pengguna menekan Enter
 
@@ -599,13 +586,8 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3_1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono7/blob/main/modul7/output_unguided/output3.png?raw=true)
 
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
 Ketiga file tersebut digunakan untuk membuat program Stack berbasis Array yang dilengkapi fitur memasukkan angka. main3.cpp berperan menjalankan program, stack3.h berisi deklarasi struktur dan fungsi, sementara stack3.cpp mengatur proses penambahan, pengambilan, pembalikan data, serta penerimaan input hingga tombol Enter ditekan.
 
